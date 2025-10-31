@@ -1,5 +1,0 @@
-"Anota‡äes da Aula 1 - Introdu‡Æo ao GIT" 
-"Anota‡äes da Aula 2 - Comandos b sicos do GIT" 
-"Exercicio !: Fazer um programa com estrutura de repeti‡Æo" 
-"Anota‡äes da Aula 2 - Comandos b sicos do GIT" 
-"Anota‡äes da Aula - Github" 
